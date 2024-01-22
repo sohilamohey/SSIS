@@ -1,0 +1,17 @@
+St_Id,St_Address,St_Age,Dept_Id,St_super,FullName
+1,Cairo,20,10,,Ahmed Hassan    
+2,Cairo,21,10,1,Amr Magdy     
+3,Cairo,22,10,1,Mona Saleh     
+4,Alex,23,10,1,Ahmed Mohamed   
+5,Alex,24,10,1,Khalid Moahmed   
+6,Mansoura,25,20,,Heba Farouk    
+7,Cairo,25,20,6,Ali Hussien   
+8,Alex,28,20,6,Mohamed Fars      
+9,Mansoura,24,30,,Saly Ahmed     
+10,Alex,24,30,9,Fady Ali       
+11,Cairo,24,30,9,Marwa Ahmed     
+12,Cairo,21,40,,Noha Omar      
+13,,,40,12,
+14,Tanta,30,,,
+20,,,,,
+100,,,,,
